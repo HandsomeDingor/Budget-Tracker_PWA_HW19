@@ -41,9 +41,8 @@
         "type": "image/png"
       }
     ],
-    "name": "Budget Tracker",
-    "short_name": "BudgetTracker",
-    "orientation": "portrait",
+    "name": "Budget-Tracker",
+    "short_name": "Budget-Tracker",
     "display": "standalone",
     "start_url": "./index.html",
     "description": "An app that allows you to track your budget.",
